@@ -1,0 +1,53 @@
+
+/* stili header */
+
+*{
+    font-family: 'Lato', sans-serif;
+}
+
+header{
+    margin: 0px;
+    background-color: white;
+    width: auto;
+    height: 100px;
+   
+}
+
+.logo{
+    margin-top: 10px;
+}
+
+
+.name, logo{
+    font-size: 40px;;
+    font-weight: bolder;
+    color: rgb(4, 4, 25);
+    display: inline;
+}
+
+/* stili body */
+
+.Container2{
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+   border-bottom: solid 2px;
+   background-color: white;
+   width: 800px;
+   height: 500px;
+   border: 0.5px solid;
+}
+
+input{
+    border-bottom: solid 2px;
+}
+
+input{
+    padding: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10%;
+    border-bottom: 2px, solid;
+
+}
+
