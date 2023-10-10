@@ -29,3 +29,48 @@ header{
     background-color: white;
    padding: 20px 0px 0px 40px;
 }
+
+main{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+input{
+    border-radius: 10%;
+    padding: 10px;
+    border-bottom: 3px, solid;
+}
+
+.button1{
+        border: transparent;
+        border-radius: 5px;
+        padding: 5px 10px;
+        color: #fff;
+        background-color: rgba(93, 93, 228, 0.989);
+    }
+
+.button2 {
+        background-color: transparent;
+        border: grey solid 1px;
+        border-radius: 5px;
+        padding: 5px 10px;
+        color: grey;
+    }
+    
+
+    .slash{
+        color: lightgreen;
+        background: transparent;
+        border-radius: 80px solid;
+        border-color: green;
+        padding:3px;
+    }
+
+    .Editorial{
+        color: white;
+        background-color: rgb(157, 224, 224);
+        border-radius: 50px;
+        padding:15px ;
+
+    }
+    
