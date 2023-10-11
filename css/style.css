@@ -6,6 +6,7 @@
     font-family: 'Lato', sans-serif;
     margin: 0;
     box-sizing: border-box;
+    padding: 1px;
 }
 
 
@@ -26,18 +27,20 @@ header{
 
 /* stili main */
 
+.main_container{
+    margin-right: 790px;
+    border-radius: 5%;
+}
 
 .Container{
     background-color: white;
-   padding: 23px 28px 0px 2px;
-   margin: 5px;
-   border-radius: 10px;
+    padding: 29px 0px 0px 15px;
+   
 }
 
 .Container2{
     background-color: white;
-    margin: auto;
-    border-radius: 10px;
+    padding-left: 10px;
 }
 
 
