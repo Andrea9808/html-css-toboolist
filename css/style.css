@@ -1,5 +1,4 @@
 
-
 /* stili header */
 
 *{
@@ -28,15 +27,16 @@ header{
 /* stili main */
 
 .main_container{
-    margin-right: 790px;
-    border-radius: 5%;
+    width: 500px;
+    border-radius: 5px;
 }
 
-.Container{
+.Container {
     background-color: white;
     padding: 29px 0px 0px 15px;
-   
+    border-bottom: 1px solid gray;
 }
+
 
 .Container2{
     background-color: white;
